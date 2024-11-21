@@ -4,6 +4,8 @@ import Panel1 from "./components/panel1";
 import Panel2 from "./components/panel2";
 import Panel3 from "./components/panel3";
 
+// # this is branch main2
+
 export default function Dashboard() {
   return (
     <div className="h-screen ml-[2vw] mr-[2vw]">
