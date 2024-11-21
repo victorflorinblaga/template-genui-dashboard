@@ -11,16 +11,16 @@ export default function Dashboard() {
     <div className="h-screen ml-[2vw] mr-[2vw]">
       <h1 className="h-[3vh]">Dashboardxyz</h1>
       <div className="grid grid-cols-2 gap-4 h-[90vh] w-full">
-        <div className="rounded-xl overflow-clip border-4 border-gray-400">
+        <div className="rounded-xl overflow-clip border-4 border-gray-400 h-[45vh]">
         <Panel0 />
         </div>
-        <div className="rounded-xl overflow-clip border-4 border-gray-400">
+        <div className="rounded-xl overflow-clip border-4 border-gray-400 h-[45vh]">
         <Panel1 />
         </div>
-        <div className="rounded-xl overflow-clip border-4 border-gray-400">
+        <div className="rounded-xl overflow-clip border-4 border-gray-400 h-[45vh]">
         <Panel2 />
         </div>
-        <div className="rounded-xl overflow-clip border-4 border-gray-400">
+        <div className="rounded-xl overflow-clip border-4 border-gray-400 h-[45vh]">
         <Panel3 />
         </div>
         </div>
